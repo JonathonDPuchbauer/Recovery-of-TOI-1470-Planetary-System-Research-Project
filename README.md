@@ -39,4 +39,4 @@ Raw  TESS data files will not be stored in this repository. The specific TESS se
 
 ## Project Status
 
-Target selected and MAST data analysis in progress
+6 light curves found, detrended and combined together, BLS to come.
