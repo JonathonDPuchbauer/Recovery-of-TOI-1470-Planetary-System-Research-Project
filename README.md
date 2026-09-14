@@ -39,4 +39,4 @@ Raw  TESS data files will not be stored in this repository. The specific TESS se
 
 ## Project Status
 
-6 light curves found, detrended and combined together, BLS to come.
+Strong transit-like signal found with a period of 2.52 days. Second transit-like signal to be investigated and both signals to be further verified.
